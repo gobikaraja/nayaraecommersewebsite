@@ -20,4 +20,4 @@ The goal of this project is to demonstrate how a modern shopping website looks a
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/gopikaraja/ecommerce-frontend.git
+   git clone https://github.com/gobikaraja/ecommerce-frontend.git
